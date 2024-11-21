@@ -21,8 +21,7 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 
 ### Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvadeveloper&theme=transparent&langs_count=8)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvadeveloper&theme=transparent&layout=compact)
 
 ### Contatos
 
