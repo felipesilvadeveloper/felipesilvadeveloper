@@ -10,10 +10,10 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent)
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)
 
 ### Linguagens utilizadas
 
