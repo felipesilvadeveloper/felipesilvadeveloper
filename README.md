@@ -14,11 +14,11 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=felipesilvadeveloper&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvadeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilvadeveloper&langs_count=8)
 
 
 ### Contatos
