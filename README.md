@@ -10,7 +10,7 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent#gh-dark-mode-only)
 ### Projetos
 
 
