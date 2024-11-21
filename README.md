@@ -14,9 +14,7 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 ### Projetos
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)](https://github.com/felipesilvadeveloper/Agenda_de_Contatos)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=jquery-galeria-fotos&theme=transparent)](https://github.com/felipesilvadeveloper/jquery-galeria-fotos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)](https://github.com/felipesilvadeveloper/Agenda_de_Contatos) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=jquery-galeria-fotos&theme=transparent)](https://github.com/felipesilvadeveloper/jquery-galeria-fotos)
 
 
 
