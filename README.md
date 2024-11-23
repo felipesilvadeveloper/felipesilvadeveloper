@@ -13,8 +13,13 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent#gh-dark-mode-only)
 ### Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Felipe_Motors&theme=transparent)](https://github.com/felipesilvadeveloper/Felipe_Motors) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)](https://github.com/felipesilvadeveloper/Agenda_de_Contatos) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=jquery-galeria-fotos&theme=transparent)](https://github.com/felipesilvadeveloper/jquery-galeria-fotos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=jquery-galeria-fotos&theme=transparent)](https://github.com/felipesilvadeveloper/jquery-galeria-fotos)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Agenda_de_Contatos&theme=transparent)](https://github.com/felipesilvadeveloper/Agenda_de_Contatos) 
+
+
 
 
 
