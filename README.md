@@ -8,10 +8,19 @@ Sou um estudante dedicado do curso de Desenvolvimento Full Stack da EBAC, com pa
 
 🚀 Sempre buscando novos desafios para aprimorar minhas habilidades.
 
+## Acesse o Meu Portfólio
+
+Você pode visualizar o meu portfólio online clicando no link abaixo:
+
+- [Meu Portfólio Online](https://portifolio-fs.vercel.app/)
+
 ### Detalhes
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipesilvadeveloper&show_icons=true&theme=transparent#gh-dark-mode-only)
+
 ### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Portifolio-FS&theme=transparent)](https://github.com/felipesilvadeveloper/Portifolio-FS) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipesilvadeveloper&repo=Felipe_Motors&theme=transparent)](https://github.com/felipesilvadeveloper/Felipe_Motors) 
 
